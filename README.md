@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on C++ games<br>👯 I’m looking to collaborate on Open Source Projects in various domains <br>🌱 I’m currently learning OpenGL<br>⚡ Fun fact : FromSoftware Games fan
+🔭 I’m currently working on C++ games/projects<br>👯 I’m looking to collaborate on Open Source Projects in various domains <br>🌱 I’m currently learning OpenGL<br>⚡ Fun fact : FromSoftware Games fan
 
 
 ## 🌐 Socials:
